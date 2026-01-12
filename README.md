@@ -12,6 +12,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xorodev/esp-control/r
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-in%20development-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+![Version](https://img.shields.io/badge/version-v1.0.0--stable-blue)
 
 </div>
